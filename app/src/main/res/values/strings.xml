@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">proyectofinal</string>
+    <string name="ed1">Introduzca Nombre</string>
+    <string name="jugar">Jugar</string>
+    <string name="et_vidas">Vidas: </string>
+    <string name="jugador">Jugador: </string>
+    <string name="Totalscore">Score: </string>
+    <string name="bton_sumar">Comprobar</string>
+    <string name="et_respuesta">Respuesta</string>
+
+</resources>
